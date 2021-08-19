@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "COnference Presentations"
-    url: /talks/    
+  - title: "Conference Presentations"
+    url: /conferencepresentations/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Instruments"
-    url: /portfolio/
+    url: /instruments/
         
   - title: "Field Work"
-    url: /year-archive/
+    url: /fieldwork/
     
   - title: "CV"
     url: /cv/

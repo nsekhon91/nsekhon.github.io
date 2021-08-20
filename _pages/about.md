@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [Voss Postdoctoral Research Associate](https://ibes.brown.edu/funding-opportunities/voss-postdoctoral-research-associate-environment-and-society) and [Presidential Diversity Postdoctoral Fellow](https://www.brown.edu/about/administration/institutional-diversity/initiatives/presidential-diversity-postdoctoral-fellowship) at Brown University working with [Dr. Dan Ibarra](https://sites.brown.edu/ibarra-lab/). I grew up in Punjab, India, lying within the foothills of the Himalayas. I earned my Ph.D. and M.Sc. from the [Jackson School of Geosciences](https://www.jsg.utexas.edu/) at the University of Texas, Austin. Before that I studied Earth System Science (B.S.) at the University of California, Irvine and spent an year at the Univeersity of Edinburgh.  
+I am currently a [Voss Postdoctoral Research Associate](https://ibes.brown.edu/funding-opportunities/voss-postdoctoral-research-associate-environment-and-society) and [Presidential Diversity Postdoctoral Fellow](https://www.brown.edu/about/administration/institutional-diversity/initiatives/presidential-diversity-postdoctoral-fellowship) at Brown University working with [Dr. Dan Ibarra](https://sites.brown.edu/ibarra-lab/). I grew up in Punjab, India, lying within the foothills of the Himalayas where I became enamoured by the world around us. I earned my Ph.D. and M.Sc. from the [Jackson School of Geosciences](https://www.jsg.utexas.edu/) at the University of Texas, Austin. Before that I studied Earth System Science (B.S.) at the University of California, Irvine and spent an year at the Univeersity of Edinburgh.  
 
 My research primarly focuses on understanding mechanisms driving cycles of climate change in terrestrial environments. I am particularly interested in the interplay between floods and droughts in the present (1950s - Present), near-past (Holocene), and future (circa 2100) landscapes. Stalagmites that grI use geochemical signatures of stalagmites from drought sentivite regions such as New Mexico (Ph.D. work) a     
 
@@ -35,8 +35,8 @@ Global Datasets
 ======
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+#Example: editing a markdown file for a talk
+#![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
 For more info

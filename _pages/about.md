@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [Voss Postdoctoral Research Associate](https://ibes.brown.edu/funding-opportunities/voss-postdoctoral-research-associate-environment-and-society) and [Presidential Diversity Postdoctoral Fellow](https://www.brown.edu/about/administration/institutional-diversity/initiatives/presidential-diversity-postdoctoral-fellowship) at Brown University working with [Dr. Dan Ibarra](https://sites.brown.edu/ibarra-lab/). I grew up in Punjab, India, lying within the foothills of the Himalayas. I earned my Ph.D. and M.S. from the Jackson School of Geosciences at the University of Texas, Austin. Before that I studied Earth System Sciences at the University of California, Irvine and spent an year at the Univeersity of Edinburgh.  
+I am currently a [Voss Postdoctoral Research Associate](https://ibes.brown.edu/funding-opportunities/voss-postdoctoral-research-associate-environment-and-society) and [Presidential Diversity Postdoctoral Fellow](https://www.brown.edu/about/administration/institutional-diversity/initiatives/presidential-diversity-postdoctoral-fellowship) at Brown University working with [Dr. Dan Ibarra](https://sites.brown.edu/ibarra-lab/). I grew up in Punjab, India, lying within the foothills of the Himalayas. I earned my Ph.D. and M.Sc. from the [Jackson School of Geosciences](https://www.jsg.utexas.edu/) at the University of Texas, Austin. Before that I studied Earth System Science (B.S.) at the University of California, Irvine and spent an year at the Univeersity of Edinburgh.  
 
-My research focus is to understand mechanisms driving 
+My research primarly focuses on understanding mechanisms driving cycles of climate change in terrestrial environments. I am specifiaclly intrigued by the interplay between floods and droughts in the present (1950s - Present), near-past (Holocene), and future (circa 2100) landscapes. Stalagmites that grI use geochemical signatures of stalagmites from drought sentivite regions such as New Mexico (Ph.D. work) a     
+
+For my postdoctoral work at Brown, I will be deliving 
 
 RESEARCH AREAS: 
 

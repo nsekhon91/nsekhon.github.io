@@ -1,7 +1,9 @@
 
+------------------
+title: "Publications"
+------------------
+
 In Print
-
-
 
 Submitted/In Review
 

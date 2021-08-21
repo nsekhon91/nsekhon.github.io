@@ -1,6 +1,6 @@
 
 ---
-title: "Publications"
+collection: publications
 ---
 
 In Print

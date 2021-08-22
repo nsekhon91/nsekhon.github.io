@@ -8,3 +8,4 @@ paperurl: 'https://www.tandfonline.com/doi/full/10.1080/03098265.2020.1833318'
 citation: 'Sekhon, N., Beach, T., Krause, S., and Eshleman, S. (2021). &quot;Understanding climate trends in Central America through practical problem-based learning.&quot; <i>Journal of Geography in Higher Education</i>.'
 ---
 
+**Sekhon, N.**, Beach, T., Krause, S., and Eshleman, S. (2021). &quot;Understanding climate trends in Central America through practical problem-based learning.&quot; <i>Journal of Geography in Higher Education</i>.

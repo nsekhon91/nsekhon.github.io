@@ -1,7 +1,7 @@
 ---
 title: "Diurnal to seasonal ventilation in Brazilian caves"
 collection: publications
-permalink: /publication/published2
+permalink: /publication/published1
 date: 2020-11-24
 venue: 'Global and Planetary Change'
 paperurl: 'https://doi.org/10.1016/j.gloplacha.2020.103378'

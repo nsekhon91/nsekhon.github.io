@@ -1,11 +1,11 @@
 ---
-title: "Investigating recent SPCZ rainfall variability using a Stalagmite from the Solomon Islands: Initial Report."
+title: "Proposed work to investigate recent SPCZ rainfall changes using cave deposits from the South Pacific."
 collection: talks
-type: "Summer School Poster"
+type: "Research Symposium Poster"
 permalink: /talks/jack
-venue: "Summer School on Speleothem Sciences"
-date: 2015-08-28
-location: "Oxford, UK"
+venue: "Annual Jackson School Research Symposium"
+date: 2015-02-07
+location: "Austin TX, USA"
 ---
 
-Sekhon, N., T. M. Quinn, J. W. Partin, R.L. Edwards, H. Cheng, P. Zhang. Investigating recent SPCZ rainfall variability using a Stalagmite from the Solomon Islands: Initial Report.
+Sekhon, N., T. M. Quinn, J. W. Partin, R.L. Edwards, H. Cheng, P. Zhang. Proposed work to investigate recent SPCZ rainfall changes using cave deposits from the South Pacific.

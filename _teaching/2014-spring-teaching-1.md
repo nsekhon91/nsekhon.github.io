@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "UT Austin, Department of Geological Sciences"
 date: 2016-01-01
 location: "Austin, USA"

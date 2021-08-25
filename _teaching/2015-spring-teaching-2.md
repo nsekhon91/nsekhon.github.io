@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Guest Instructor"
 collection: teaching
-type: "Workshop"
+type: "Guest Instructor"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UT Austin, Department of Geography and the Environment"
+date: 2018-01-01
+location: "Austin, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Wrote a lesson plan for instructors at institutes of higher education to teach pertinent climate change topics using the example of the Maya Lowlands. Lesson plan is published online and available to the public. The results were published in *Journal of Geography in Higher Education.* The lesson plan was tested over two semesters where I was the guest instructor.
 
-Heading 1
+GRG 333K - Climate Change Spring 2018 
 ======
 
-Heading 2
+GRG 339 - Process Geomorphology Fall 2018
 ======
 
-Heading 3
-======
+

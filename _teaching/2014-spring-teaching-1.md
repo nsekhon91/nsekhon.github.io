@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/2015-spring-teaching-1
+venue: "UT Austin, Department of Geological Sciences"
+date: 2016-01-01
+location: "Austin, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught two - three sections (15 - 20 students per section) of major and non-major geology undergraduate labs per week. Duties included grading assignments, leading lab discussions, and updating teaching slides.
 
-Heading 1
-======
+Earth, Fire, Wind (GEO 302E)  *Spring 2020* 
+---------------
 
-Heading 2
-======
+Climate: Past, Present, Future (GEO 302C) *Spring 2017*
+---------------
 
-Heading 3
-======
+Sustaining a Planet (UGS 303) *Fall 2016*
+---------------

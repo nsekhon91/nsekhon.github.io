@@ -8,4 +8,4 @@ date: 2021-03-12
 location: "Online"
 ---
 
-*Invited Talk* A study of seasonal hydroclimate variability in southwestern United States: Geochemical insights from stalagmites and karst monitoring.
+*Invited Talk:* A study of seasonal hydroclimate variability in southwestern United States: Geochemical insights from stalagmites and karst monitoring.

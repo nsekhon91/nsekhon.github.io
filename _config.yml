@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  posts:
+  dei:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -190,7 +190,7 @@ collections:
   labwork:
     output: true
     permalink: /:collection/:path/
-   fieldwork:
+  fieldwork:
     output: true
     permalink: /:collection/:path/
 

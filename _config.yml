@@ -190,6 +190,9 @@ collections:
   labwork:
     output: true
     permalink: /:collection/:path/
+   fieldwork:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -221,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _teachingtwo
+  # _fieldwork
   - scope:
       path: ""
-      type: teachingtwo
+      type: fieldwork
     values:
       layout: single
       author_profile: true

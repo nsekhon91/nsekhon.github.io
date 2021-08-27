@@ -24,12 +24,6 @@ Published
 
 In Progress
 ======
-  * [StratCore](https://github.com/Fraass/StratCore)
-    * This is an unfinished collection of code that has built up over the years. I do plan to eventually get it flexibly written and published as a paper _eventually_. It's all devoted to working with scientific ocean drilling data. Functions are not documented, and I make no promises that any of it will work with anybody elses data. 
-    * There is code to: 
-      * Splice core material, both individual samples and to splice together a single lithologic log
-      * Apply age models (e.g., paleomag)
-      * Remove certain lithologies (e.g., volcanics) and then generate a new faux-depthscale
-      * Integrates with the 'astrochron' package
+
     
     

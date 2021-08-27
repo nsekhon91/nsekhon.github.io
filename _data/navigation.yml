@@ -11,3 +11,12 @@ main:
     
   - title: "Lab Work"
     url: /labwork/
+    
+  - title: "Field Work"
+    url: /fieldwork/
+    
+  - title: "DEI"
+    url: /dei/
+    
+  - title: "Sci. Comm."
+    url: /sci/

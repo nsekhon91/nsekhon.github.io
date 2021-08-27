@@ -1,6 +1,6 @@
 ---
 title: "Field Assistant Instructor"
-collection: teaching
+collection: teachingtwo
 type: "Field Assistant Instructor"
 permalink: /teachingtwo/evs
 venue: "UT Austin, Environmental Science Institute"

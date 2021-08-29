@@ -193,6 +193,9 @@ collections:
   fieldwork:
     output: true
     permalink: /:collection/:path/
+  scicom:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -259,6 +262,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _dei
+  - scope:
+      path: ""
+      type: dei
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _scicom
+  - scope:
+      path: ""
+      type: scicom
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:

@@ -196,6 +196,9 @@ collections:
   scicom:
     output: true
     permalink: /:collection/:path/
+  plato:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -275,6 +278,15 @@ defaults:
   - scope:
       path: ""
       type: scicom
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _plato
+  - scope:
+      path: ""
+      type: plato
     values:
       layout: single
       author_profile: true

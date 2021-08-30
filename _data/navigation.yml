@@ -16,7 +16,5 @@ main:
     url: /fieldwork/
     
   - title: "Service"
-    url: /dei/
-    
-  - title: "Sci. Comm."
-    url: /scicom/
+    url: /service/
+

@@ -17,4 +17,7 @@ main:
     
   - title: "Service"
     url: /service/
+    
+  - title: "Plato's Cave"
+    url: /plato/
 

@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Code"
 permalink: /fieldwork/fieldwork
 author_profile: true
 ---

@@ -5,14 +5,16 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-For a full up-to-date list of service activities, download my [CV](https://rkurchin.github.io/files/Kurchin_CV.pdf).
+For a full up-to-date list of field work, download my [CV](https://nsekhon.github.io/files/Kurchin_CV.pdf).
 
-## Journal review and editing
-I'm proud to be a member of the editorial board at [JOSS](https://joss.theoj.org")!
+## Southeastern New Mexico *
+Bi-monthly field monitoring trips in Sitting Bull Falls, Lincoln National Forest. </i>July 2017 - November 2019</i> 
 
-I also serve as a peer reviewer for a variety of journals, including Physical Review Materials, the Journal of Photovoltaics, and Nature Computational Science.
+## Central Texas *
+Monthly trips to Central Texas caves (Westcave, Inner Space Caverns, Natural Bridges Caverns, Cave Without A Name) as part of Dr. Banner's research group. </i>July 2016 - March 2021</i>
 
-## Other Service
-I have long been an advocate for women and other underrepresented groups in STEM. I have participated in and helped organize several [CUWiP](https://www.aps.org/programs/women/cuwip/) conferences. I was co-president of MIT's [Womxn of Materials Science](http://woms.scripts.mit.edu/website/) group, as well as a member of the [Graduate Student Advisory Group for Engineering](https://engineering.mit.edu/about/leadership/graduate-student-advisory-group/) at MIT, where I served on the advisor-advisee relations subcommittee advocating for measures to mitigate problematic power dynamics in advising relationships.
+## Northeastern Belize **
+Monthly trips to Central Texas caves (Westcave, Inner Space Caverns, Natural Bridges Caverns, Cave Without A Name) as part of Dr. Banner's research group. </i>July 2016 - March 2021</i>
 
-I've also worked on solar PV-related advocacy work, including serving as a community lead for the [MIT Energy Club](https://www.mitenergyclub.org) and a leader of [Project Bright](https://campuspress.yale.edu/projectbright/) at Yale.
+#### * Primary Co-Ordinator
+#### ** Primary Co-Ordinator

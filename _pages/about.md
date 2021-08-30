@@ -16,7 +16,7 @@ For my postdoctoral work at Brown, I will be investigating tropical droughts in 
 
 RESEARCH AREAS: Extreme events (droughts and floods), terrestrial (paleo)climate, low-temp geochemistry, stalagmites, cave monitoring, quaternary climate change, statistical and time-series analysis
 
-Feel free to download my [CV](https://nsekhon.github.io/files/Kurchin_CV.pdf).
+Feel free to download my [CV](https://nsekhon.github.io/files/Kurchin_CV.pdf)!
 
 
 For more info

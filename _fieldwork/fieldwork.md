@@ -1,10 +1,7 @@
 ---
-title: "Field Assistant Instructor"
 collection: fieldwork
-type: "Field Assistant Instructor"
-permalink: /fieldwork/evs
+permalink: /fieldwork/fieldwork
 venue: "UT Austin, Environmental Science Institute"
-date: 2018-01-01
 location: "Austin, USA"
 ---
 

@@ -5,8 +5,6 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-For a full up-to-date list of field work, download my [CV](https://nsekhon.github.io/files/Kurchin_CV.pdf).
-
 ## Southeastern New Mexico *
 Bi-monthly field monitoring trips in Sitting Bull Falls, Lincoln National Forest. July 2017 - November 2019
 

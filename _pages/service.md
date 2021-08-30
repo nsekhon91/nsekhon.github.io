@@ -7,6 +7,10 @@ author_profile: true
 
 ## Disciplinary Service
 
+* Pal(a)eoPERCS Organizer (April 2021 - Present)
+
+Seminar series designed to showcase the research of Early Career Researchers (ECR) in all fields of paleo sciences (-ntology, -ecology, -ceanography, -climate, etc). As part of the current committee, my roles include weekly seminar meetings, maintaining the website, and discussions related to speakers, schedules, funding.
+
 * SISAL Phase 1 North America Regional Coordinator (January 2018 - December 2019)
 
 Worked with members of the North America regional team, led by Dr. Jessica Oster, to organize, compile, and interpret existing published stalagmite records from North and Central America. SISAL is a PAGES funded initiative to increase interaction between researchers interested in paleoclimatology, karst, and stalagmites.

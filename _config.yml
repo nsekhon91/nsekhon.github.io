@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  dei:
+  service:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -262,10 +262,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _dei
+  # _service
   - scope:
       path: ""
-      type: dei
+      type: service
     values:
       layout: single
       author_profile: true

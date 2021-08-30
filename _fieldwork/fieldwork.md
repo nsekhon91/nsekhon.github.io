@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /fieldwork/fieldwork
+permalink: fieldwork
 author_profile: true
 ---
 

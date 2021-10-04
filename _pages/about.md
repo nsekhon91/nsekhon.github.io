@@ -14,7 +14,7 @@ My research primarly focuses on understanding mechanisms driving cycles of clima
 
 For my postdoctoral work at Brown, I will be investigating tropical droughts in the Philippines and its impacts on the people. I will use satellite and archived data of river dishcarge and rainfall amount. A multi-proxy approach will also be taken on new stalagmites retrieved from the archipelago. Stay tuned for updates!
 
-RESEARCH AREAS: Extreme events (droughts and floods), terrestrial (paleo)climate, low-temp geochemistry, stalagmites, cave monitoring, quaternary climate change, statistical and time-series analysis
+RESEARCH AREAS: Extreme events (droughts and floods), terrestrial (paleo)climate, low-temp geochemistry, stalagmites, cave monitoring, quaternary climate change, statistical and time-series analysis.
 
 Please find my CV here - [CV](https://github.com/nsekhon91/nsekhon91.github.io/blob/master/files/NSekhon_CV_JC2021.pdf)
 

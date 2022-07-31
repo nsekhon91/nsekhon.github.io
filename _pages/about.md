@@ -18,3 +18,4 @@ RESEARCH AREAS: Extreme events (droughts and floods), terrestrial (paleo)climate
 
 Please find my CV here: [CV](https://github.com/nsekhon91/nsekhon91.github.io/blob/master/files/NSekhon_CV_JC2022.pdf)
 
+Please find my Resume here: [Resume](https://github.com/nsekhon91/nsekhon91.github.io/blob/master/files/NSekhon_Resume.pdf)
